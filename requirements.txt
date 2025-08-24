@@ -1,0 +1,6 @@
+cat > trade_agent/requirements.txt << 'REQ'
+google-adk
+binance-connector
+pandas
+numpy
+REQ
